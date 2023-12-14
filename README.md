@@ -33,12 +33,5 @@ Once all dependencies are installed, you can run the scripts as instructed in th
 Main scripts:
 - tool_state_model.py
 -   affordance_model.py
-
+##
 Authors: P. F. Kinghorn and P. Collis
-
-
-
-
-
-Authors: P. F. Kinghorn and P. Collis
-
