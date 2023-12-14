@@ -1,4 +1,4 @@
-#METATOOL_UoS
+# METATOOL_UoS
 
 Authors: P. F. Kinghorn and P. Collis
 
