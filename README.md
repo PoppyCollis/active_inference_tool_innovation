@@ -6,11 +6,11 @@ This codebase provides a minimal model of tool innovation that involves an activ
 
 For details on the parameters and an explanation of the model, please see accompanying article: [D1_2_simple_metacognitive_model](https://github.com/PoppyCollis/METATOOL_UoS/blob/master/D1_2_Simple_Metacognitive_Model.pdf)
 
-## Installation:
+## Installation
 
 To get started, you can easily download and run the scripts provided. Everything you need to run the scripts is included in the repository.
 
-### Pre-requisites:
+### Pre-requisites
 A Python Integrated Development Environment (IDE) or any Python execution environment is required to run the Python scripts. 
 
 ### 1. Clone the Repository
@@ -24,7 +24,7 @@ A Python Integrated Development Environment (IDE) or any Python execution enviro
 ### 2. Navigate to the Repository Directory
 cd path/to/directory
 
-### 4. Install Dependencies:
+### 4. Install Dependencies
 - NumPy
 - SciPy
 - Pandas
