@@ -29,6 +29,7 @@ cd path/to/directory
 - SciPy
 - Pandas
 - Matplotlib
+- Seaborn
 
 ### 4. Run the Scripts
 Once all dependencies are installed, you can run the scripts as instructed in the specific script documentation [D1_2_simple_metacognitive_model](https://github.com/PoppyCollis/METATOOL_UoS/blob/master/D1_2_Simple_Metacognitive_Model.pdf).
